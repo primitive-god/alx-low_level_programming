@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- *Main-Entry Point
+ *This is a simple C program that prints a message.
+ * The main function is the entry point of the program.
  *
  *
  *Return:Always (0)
