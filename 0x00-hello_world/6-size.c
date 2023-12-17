@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-*Main-This function prints the size of various 
-*data types on the computer it is compiled and run on 
+*Main-Function prints sizes of the various data types
+*it is compiled and run on,followed by a new line
 *
 *Return:Always 0.
 **/
