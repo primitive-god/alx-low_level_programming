@@ -17,6 +17,6 @@ int main(void)
 		}
 	}
 
-	printf("the sum of the mutiples of 3 or 5 below 1024 is: %d\n" , sum);
-	return 0;
+	 printf("%d\n", sum);
+	 return 0;
 }
